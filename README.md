@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-![quizdomilhao](https://github.com/user-attachments/assets/cbc2eca4-243e-4ce7-a4d8-ed2e55aa969a)
+![milhao](https://github.com/user-attachments/assets/6546f30c-e1d7-4896-a496-54bc74fe8587)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
